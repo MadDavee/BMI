@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.BMIKalkulackaForm.resources
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.exe
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.exe
+c:\users\administrator\documents\visual studio 2017\Projects\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.pdb
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.exe.config
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.exe
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.pdb
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.csprojResolveAssemblyReference.cache
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.BMIKalkulackaForm.resources
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.Properties.Resources.resources
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.csproj.GenerateResource.Cache
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.exe
+S:\2.D\PRG\D2\!CSharp\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.pdb
